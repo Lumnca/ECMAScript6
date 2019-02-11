@@ -2,7 +2,7 @@
 
 <p id="title></p>
        
-<a herf="#a1">:mortar_board:1.let命令</a>
+<a herf="#a1">:mortar_board:>1.let命令</a>
 
 <p id="a1"></p>
 
