@@ -2,9 +2,9 @@
 
 <p id="title></p>
        
-<a href="#a1"> :mortar_board: 1.let命令 </a>
+:mortar_board:<a href="#a">1.let命令</a>
 
-<p id="a1"></p>
+<p id="a"></p>
 
 ### :airplane:let命令 ###
 
