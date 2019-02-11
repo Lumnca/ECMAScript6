@@ -1,13 +1,14 @@
 # ----------------------let与const命令------------------------- #
+
 <p id="title></p>
        
 <a href="#a1">:mortar_board:1.let命令</a>
 
-<p id=""a1></p>
+<p id="a1"></p>
 
 ### :airplane:let命令 ###
 
-<a href="#title">1.let命令</a>
+<a href="#title">返回目录</a>
 
 ES6 新增了let命令，用来声明变量。它的用法类似于var，但是所声明的变量，只在let命令所在的代码块内有效。
 
