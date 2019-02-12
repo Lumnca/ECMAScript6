@@ -2,15 +2,15 @@
 
 <p id="title></p>
        
-## :mortar_board:章节 ##   
+## :mortar_board:目录 ##
 
-:arrow_down:<a href="#a1">let命令</a>
+:arrow_down:<a href="#a1">1.let命令</a>
 
 <p id="a1"></p>
 
 ### :airplane:let命令 ###
 
-<a href="#title">返回目录</a>
+:arrow_double_up:<a href = "#title">返回目录</a>
 
 ES6 新增了let命令，用来声明变量。它的用法类似于var，但是所声明的变量，只在let命令所在的代码块内有效。
 
