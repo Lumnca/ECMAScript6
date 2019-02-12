@@ -6,7 +6,7 @@
 
 :arrow_down:<a href="#a1">1.let命令</a>
 
-:arrow_down:<a href="#a1">2.块级作用域</a>
+:arrow_down:<a href="#a2">2.块级作用域</a>
 
 <p id="a1"></p>
        
