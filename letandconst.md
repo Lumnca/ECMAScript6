@@ -630,7 +630,7 @@ var getGlobal = function () {
 
 垫片库system.global模拟了这个提案，可以在所有环境拿到global。
 
-```
+```JavaScript
 // CommonJS 的写法
 require('system.global/shim')();
 
