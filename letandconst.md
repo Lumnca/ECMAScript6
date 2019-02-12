@@ -1,10 +1,11 @@
 # ----------------------let与const命令------------------------- #
-## :mortar_board:章节 ##   
 <p id="title></p>
-       
-:arrow_down:<a href="#one">1.let命令</a>
+## :mortar_board:章节 ##   
 
-<p id="one"></p>
+       
+:arrow_down:<a href="#a1">let命令</a>
+
+<p id="a1"></p>
 
 ### :airplane:let命令 ###
 
