@@ -18,3 +18,5 @@
 :triangular_ruler:[数组的扩展](https://github.com/Lumnca/ECMAScript6/blob/master/%E6%95%B0%E7%BB%84%E7%9A%84%E6%89%A9%E5%B1%95.md)
 
 :triangular_ruler:[对象的扩展](https://github.com/Lumnca/ECMAScript6/blob/master/%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%89%A9%E5%B1%95.md)
+
+:triangular_ruler:[对象新增的方法](https://github.com/Lumnca/ECMAScript6/blob/master/%E5%AF%B9%E8%B1%A1%E7%9A%84%E6%96%B0%E5%A2%9E%E6%96%B9%E6%B3%95.md)
